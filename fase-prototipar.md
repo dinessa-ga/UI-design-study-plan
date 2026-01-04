@@ -1,4 +1,5 @@
 # FASE 4: PROTOTIPAR (Prototype)
+**PROYECTO: App de To-Do List**
 
 ## Objetivo
 Hacer las ideas tangibles para poder testarlas con usuarios reales.
