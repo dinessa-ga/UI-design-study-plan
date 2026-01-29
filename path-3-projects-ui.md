@@ -147,14 +147,3 @@ Puedes estructurar tu caso así:
 - Crear presentación del proyecto
 
 ---
-
-## 💡 Próximos Pasos
-
-¿Quieres que te ayude a profundizar en alguna de estas opciones o prefieres comenzar directamente con el proyecto de E-Learning?
-
-Puedo ayudarte con:
-- Definir el alcance exacto del proyecto
-- Crear user personas
-- Diseñar los user flows principales
-- Estructurar tu sistema de diseño en Figma
-- Preparar la documentación técnica
